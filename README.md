@@ -5,7 +5,7 @@
 
 ## Process
 * For this project I used some APIs to gsther the data for analysis. The variables of interest: POIs, number of bikes and POI characteristics(distance and number of POIs in an area).
-* I also performed some data exploration. Below is a peek of some of the results of the EDA
+* I also performed some data exploration. 
 * With the result from the EDA (clesning and handling outliers), I built a model to analyse the relationship between number of bikes and POI charateristics
 * The data used for the analysis is stored in a database using SQLite.
 
